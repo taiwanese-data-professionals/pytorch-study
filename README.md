@@ -33,7 +33,8 @@ Beginner Tutorial and Example:
 
 ### MOOC
 **PyTorch**
-- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [Intro to Deep Learning with PyTorch](https://www.udacity.com/coursedeep-learning-pytorch--ud188)
+
 **Deep Learning**
 - [CS230 Deep Learning](http://cs230.stanford.edu/)
 - [NYU CDS 'Deep Learning' course](https://github.com/luca-venturi/DS-GA-1008-001)
