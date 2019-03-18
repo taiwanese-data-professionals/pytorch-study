@@ -9,7 +9,7 @@ Our goal is to help data professionals what is pytorch and how deep learning can
 
 ## Table of Contents
 
-#### Week 1. Basics
+#### 1. Basics
 * [PyTorch Basics](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * [Introduction to Neural Network](https://classroom.udacity.com/courses/ud188/)
 
@@ -24,7 +24,9 @@ Our goal is to help data professionals what is pytorch and how deep learning can
 ## Some Learning Resources
 
 ### Github Repo and Tutorial
+
 **EN**
+
 Beginner Tutorial and Example:
 
 - [60 mins to PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
